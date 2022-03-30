@@ -23,6 +23,6 @@ y =  sin (at)  and y = cos (at)    Two derivatives bring back sine and cosi
 The next step allows damping (first derivative)  as in my ' ' +  dy ' + ky = 0   How to solve?  
 Just try y = e^at   !!  You find that   ma^2 + da + k = 0   Two a's give two solutions: good
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.

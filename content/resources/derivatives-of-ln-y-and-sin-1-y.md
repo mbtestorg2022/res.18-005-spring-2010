@@ -23,6 +23,6 @@ So the derivative of f^-1(y)  is  1/ (df/dx)  BUT you have to write df/dx in 
 The derivative of ln y is 1/ (derivative of f = e^x) = 1/e^x.   This is  1/y, a neat slope !  
 Changing letters is OK :  The derivative of ln x is 1/x.  Watch this video for GRAPHS
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.

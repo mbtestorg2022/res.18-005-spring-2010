@@ -25,6 +25,6 @@ Function 1 is f(x)   Function 2 is its slope (rate of change)   Add up those
 The MEAN VALUE THEOREM says that if your average speed is 70,  then instant speed is 70 at least once  
 The BINOMIAL THEOREM tells you the series that adds up to the pth power f(x) = (1 + x)^p
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.

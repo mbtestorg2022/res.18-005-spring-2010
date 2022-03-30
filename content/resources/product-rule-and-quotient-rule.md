@@ -26,6 +26,6 @@ The Quotient Rule gives the slope of f(x) / g(x) .   That slope is 
 
 These rules plus the CHAIN RULE will take you a long way.
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.

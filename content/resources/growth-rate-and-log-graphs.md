@@ -23,6 +23,6 @@ A LOG-LOG graph plots log y against log x   If y = A x^n then log y = log A + 
 A SEMILOG graph plots log y against x        If y = A 10^cx then log y = log A + cx == LINE WITH SLOPE c  
 You will never see y = 0 on these graphs because log 0 is minus infinity.  But n and c jump out clearly.
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
